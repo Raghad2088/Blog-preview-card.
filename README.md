@@ -19,9 +19,7 @@ This is a solution to the [Blog preview card challenge on Frontend Mentor](https
 
 ### The challenge
 
-Users should be able to:
 
-- See hover and focus states for all interactive elements on the page
 
 ### Screenshot
 
@@ -36,9 +34,9 @@ Live Site URL: https://raghad2088.github.io/Blog-preview-Card/
 
 ### Built with
 
-- Semantic HTML5 markup
-- CSS custom properties
-- Flexbox
+- Semantic HTML5 markup.
+- CSS custom properties.
+- Flexbox.
 
 ### What I learned
 
